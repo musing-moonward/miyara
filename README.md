@@ -1,7 +1,8 @@
 # miyara
 # 資料置き場 / Resources
 
-YouTube動画の補足資料を公開しています
+https://www.youtube.com/@miyara-musing-moonward
+YouTube 補足資料
 
 ## 目次 / Contents
 
